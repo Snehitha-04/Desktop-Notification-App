@@ -19,7 +19,7 @@ pip install plyer
 <br>
 
 ### Here is the GUI
-![](file:///C:/Users/lucky/OneDrive/Desktop/notifier1.png)
+![](https://ibb.co/vcV0g46)
 
 ### Setting the notification
 ![](file:///C:/Users/lucky/OneDrive/Desktop/notifier2.png)
