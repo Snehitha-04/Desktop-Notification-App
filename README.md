@@ -19,9 +19,9 @@ pip install plyer
 <br>
 
 ### Here is the GUI
-![](https://ibb.co/vcV0g46)
+![](https://ik.imagekit.io/tfme5aczhhf/images-for-github/notifier-app-gui_ZD5DxRuW4.PNG?updatedAt=1626967810383)
 
 ### Setting the notification
-![](file:///C:/Users/lucky/OneDrive/Desktop/notifier2.png)
+![](https://ik.imagekit.io/tfme5aczhhf/images-for-github/notifier-notifi-set_iUD-WDl8c.PNG?updatedAt=1626967811075)
 ### The final output :
-![](file:///C:/Users/lucky/OneDrive/Desktop/notifier3.png)
+![](https://ik.imagekit.io/tfme5aczhhf/images-for-github/notification-popup_DYy-FLaNj.PNG?updatedAt=1626967811931)
